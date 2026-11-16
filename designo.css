@@ -1,0 +1,46 @@
+
+        body {
+            background-color: blueviolet;
+            display: flex;
+            justify-content: center;
+            margin-top: 100px;
+            height: 300px;
+        }
+        div {
+            background-color: white;
+            height: 450px;
+            width: 350px;
+            border-radius: 10px;
+            padding: 20px;
+        }
+        .card {
+            margin-top: 0;
+        }
+        h1 {
+          margin-top: 5px;  
+        }
+        h2 {
+           margin-top: 5px; 
+        }
+        input {
+            width: 300px;
+            height: 25px;
+            border-radius: 5px;
+            border: 1px solid lightgrey;
+        }
+        input:hover {
+            border: 2px  solid lightblue;
+        }
+        
+        button {
+            background-color: green;
+            color: white;
+            text-align: justify;
+            border-radius: 5px;
+            width: 310px;
+            height: 30px;
+        }
+        .texts {
+            text-align: center;
+        }
+    
